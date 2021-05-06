@@ -26,7 +26,6 @@ class ItemAdapter(
         val textView: TextView = view.findViewById(R.id.item_title)
         val imageView: ImageView = view.findViewById(R.id.item_image)
     }
-
     /**
      * Create new views (invoked by the layout manager)
      */

@@ -1,0 +1,4 @@
+#Thu May 06 12:27:46 CEST 2021
+base.0=E\:\\Programy\\Apki Kotlin\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
